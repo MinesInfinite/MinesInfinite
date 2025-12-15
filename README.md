@@ -1,8 +1,8 @@
-## 👋 Hey, I’m Moksh
+# 👋 Hey, I’m Moksh
 
-Self-taught developer & gamer.  
-I build, break, and rebuild — mostly with code.  
-Let’s connect and create something epic.
+### Self-taught developer & gamer.  
+### I build, break, and rebuild — mostly with code.  
+### Let’s connect and create something epic.
 
 # 🧠 Tech Stack
 
