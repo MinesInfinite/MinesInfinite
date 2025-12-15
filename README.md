@@ -74,9 +74,6 @@ Let’s connect and create something epic.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=MinesInfinite&theme=codeSTACKr&hide_border=false)<br/>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MinesInfinite&limit=5&theme=dark&combine_all_yearly_contributions=true)
