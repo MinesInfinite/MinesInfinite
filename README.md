@@ -77,8 +77,6 @@ Let’s connect and create something epic.
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=MinesInfinite&theme=codeSTACKr&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MinesInfinite&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MinesInfinite&limit=5&theme=dark&combine_all_yearly_contributions=true)
