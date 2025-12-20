@@ -1,7 +1,10 @@
 # 👋 Hey, I’m Moksh
 
-### Self-taught developer & gamer.  
-### I build, break, and rebuild — mostly with code.  
+### Self-taught developer & gamer  
+### I build, break, and rebuild — mostly with code  
+### 🛡️ Ethical Hacker (Green Hat) | Trained Penetration Tester  
+Focused on securing applications through responsible vulnerability assessment, defensive security practices, and ethical penetration testing.
+
 ### Let’s connect and create something epic.
 
 # 🧠 Tech Stack
