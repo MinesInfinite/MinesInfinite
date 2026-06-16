@@ -3,7 +3,7 @@
 ### 🎮 Self-taught developer & gamer  
 ### 🛡️ Ethical Hacker (Green Hat) | Trained Penetration Tester  
 
-## Open to collaborating on interesting projects and learning from other builders.
+### Open to collaborating on interesting projects and learning from other builders.
 
 # 🧠 Tech Stack
 
